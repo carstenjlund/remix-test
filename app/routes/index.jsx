@@ -26,6 +26,9 @@ const Index = () => {
             Remix Docs
           </a>
         </li>
+        <li>
+          <a href="/users">users page</a>
+        </li>
       </ul>
     </div>
   );
