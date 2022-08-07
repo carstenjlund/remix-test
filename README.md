@@ -1,6 +1,6 @@
 # Welcome to my Remix experiment!
 
-it is based on the standard remix
+it is based on the netlify server adapter.
 
 ## users page.
 Displays 10 users from the jsoplaceholder api.
